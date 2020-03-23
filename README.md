@@ -43,7 +43,10 @@ Otherwise, you will need to have all the prerequites installed, download / clone
 
 *	City Latitudes vs Humidity chart observations: overall humidity levels varied across city latitudes. Between latitudes of negative thirty five and approximately eight, there is a concentration of cities with one hundred percent humidity levels, particularly around zero degree. There’s a pocket between city latitudes eight to thirty five where there were no cities with one hundred percent humidity level.
 
+### City Latitude vs. Cloudiness As Of August 22, 2018
+![cloudiness_chart](images/citylatitude_vs_cloudiness.png)
 
+*	As for the City Latitude vs Cloudiness Chart: cloudiness varied across all city latitudes.
 
 
 
