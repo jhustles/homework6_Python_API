@@ -1,1 +1,1 @@
-# homework6_Python_API
+# Weather Analysis Using Open Weather API
