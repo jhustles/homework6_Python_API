@@ -4,7 +4,7 @@
 
 # Project Title
 
-Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
+I always follow the weather. So one day, I dedicded to do create a Python script to analyze and visualize the weather of 500+ cities across the world of varying distance from the equator.
 
 ## Getting Started
 
