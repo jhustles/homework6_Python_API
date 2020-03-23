@@ -33,6 +33,10 @@ Otherwise, you will need to have all the prerequites installed, download / clone
 * There is no strong relationship between latitude and cloudiness. However, it is interesting to see that a strong band of cities sits at 0, 80, and 100% cloudiness.
 * There is no strong relationship between latitude and wind speed. However, in northern hemispheres there is a flurry of cities with over 20 mph of wind.
 
+### City Latitude vs. Max Temperature As Of August 22, 2018
+![intro_pic](images/intro_pic.jpg)
+
+*	City Latitudes vs Temperatures (F) Chart:  Cities with latitudes of negative sixty to twenty had the highest temperatures. This makes sense because a latitude of zero is near Africa, which is known to be very hot and near the equator. As the city latitudes moved away from zero, the city temperatures were found to be cooler.
 
 
 
