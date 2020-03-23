@@ -48,7 +48,10 @@ Otherwise, you will need to have all the prerequites installed, download / clone
 
 *	As for the City Latitude vs Cloudiness Chart: cloudiness varied across all city latitudes.
 
+### City Latitude vs. Wind Speed As Of August 22, 2018
+![cloudiness_chart](images/citylatitude_vs_windspeed.png)
 
+*	Lastly, in the City Latitude vs Wind Speed Chart, the data suggests that city latitudes slightly impacted windspeed. There are a  higher concentration of cities with latitudes between zero to eight that experience high wind speeds, but this could also be due to the sample being compromised of more cities with zero to eighty degrees. The distribution of plots appear to be comparable on both positive and negative sides with the exception of a few outliers.
 
 ## Author
 
